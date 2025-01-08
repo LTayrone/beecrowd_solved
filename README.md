@@ -63,7 +63,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Se você tiver alguma dúvida, sugestão ou quiser bater um papo sobre programação, sinta-se à vontade para entrar em contato:
 
-- **LinkedIn**: [Lucas Tayrone]([https://www.linkedin.com/in/SeuNome](https://www.linkedin.com/in/lucastayrone/))
+- **LinkedIn**: [Lucas Tayrone]([https://www.linkedin.com/in/SeuNome](https://www.linkedin.com/in/lucastayrone/)])
 - **E-mail**: lucas.tayrone@hotmail.com
 
 ---
